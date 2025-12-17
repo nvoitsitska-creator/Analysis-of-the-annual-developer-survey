@@ -48,10 +48,11 @@ Annual_Developer_Survey/
 │
 ├── output/ # Generated output
 │ ├── tables/ # CSV tables with computed metrics
-│ └── figures/ # Charts, barplots, heatmaps, world maps
+│ └── figures/ # Charts, barplots, heatmaps
 │
 ├── README.md
 └── requirements.txt
+└── respondents_world_map.html
 ```
 ## Tools & Technologies
 
